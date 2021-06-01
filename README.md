@@ -4,8 +4,6 @@
 
 - Utilizar **apenas JavaScript** puro para resolver o problema (**não é permitido o uso de jquery**);
 
-- Tente sempre utilizar a abordagem ES6+ para resolver os exercícios;
-
 - **Entrega:** todas as soluções devem estar em um único repositório (github, gitlab, bitbucket, etc…) de forma **pública**;
 
 - Neste repositório deve haver, na raiz, um README.md, com as instruções de execução do código desenvolvido;
