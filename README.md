@@ -14,6 +14,8 @@
 
 - Caso não consiga resolver todos os exercícios, não tem problema, envie mesmo assim;
 
+- Prazo para conclusão 3 dias;
+
 - Ao finalizar o teste, envie o link do seu repositório via whatapp (96) 99207-6582 - Wanderson Elias
 
 Deverá ser implementado uma API [node.js](https://nodejs.org) no padrão `RESTful` que possibilite a criação e listagem de posts e comentários.
