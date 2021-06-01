@@ -1,7 +1,22 @@
-# desafio-estagio
+## Desafio Estagio Tributei
 
+## Instruções
 
-## Desafio
+- Utilizar **apenas JavaScript** puro para resolver o problema (**não é permitido o uso de jquery**);
+
+- Tente sempre utilizar a abordagem ES6+ para resolver os exercícios;
+
+- **Entrega:** todas as soluções devem estar em um único repositório (github, gitlab, bitbucket, etc…) de forma **pública**;
+
+- Neste repositório deve haver, na raiz, um README.md, com as instruções de execução do código desenvolvido;
+
+- Estilo fica ao critério do candidato, e não é o foco principal do teste;
+
+- Só será aceito o uso de bibliotecas de estilo e clientes HTTP (axios, fetch, etc);
+
+- Caso não consiga resolver todos os exercícios, não tem problema, envie mesmo assim;
+
+- Ao finalizar o teste, envie o link do seu repositório via whatapp (96) 99207-6582 - Wanderson Elias
 
 Deverá ser implementado uma API [node.js](https://nodejs.org) no padrão `RESTful` que possibilite a criação e listagem de posts e comentários.
 Sendo que cada comentário devem pertencer a um post.
