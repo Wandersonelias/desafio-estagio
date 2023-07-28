@@ -2,7 +2,7 @@
 
 ## Instruções
 
-- Utilizar **apenas JavaScript** puro para resolver o problema (**não é permitido o uso de jquery**);
+- Utilizar **apenas JavaScript** puro para resolver o problema (**nodejs**);
 
 - **Entrega:** todas as soluções devem estar em um único repositório (github, gitlab, bitbucket, etc…) de forma **pública**;
 
