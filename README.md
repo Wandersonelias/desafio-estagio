@@ -17,7 +17,7 @@ Sendo que cada comentário devem pertencer a um post.
 
 - Caso não consiga resolver todos os exercícios, não tem problema, envie mesmo assim;
 
-- Prazo para conclusão 3 dias;
+- Prazo para entrega 31/08/2023;
 
 - Ao finalizar o teste, envie o link do seu repositório via whatapp (96) 99207-6582 - Wanderson Elias
 
@@ -25,12 +25,12 @@ Sendo que cada comentário devem pertencer a um post.
 
 Sugestão de bibliotecas para montar a api:
 
-- Koa ou express
-- Alguma biblioteca para abstrair a camada de dados que preferir.
-  - Knex
-  - Bookshelf
-  - Sequelize
-  - Mongoose
+- Express
+  
+Sugestão de biblioteca para abstrair a camada de dados que preferir.
+
+- Sequelize
+
 
 Prefira o uso de um banco de dados relacional (postgresql, mysql, ...), sendo seu uso não obrigatório.<br>
 Para organizar a estrutura de seu projeto prefira o uso do padrão `MVC` sendo seu uso não obrigátio.<br>
