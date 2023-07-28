@@ -1,5 +1,8 @@
 ## Desafio Estagio Tributei
 
+Deverá ser implementado uma API  [node.js](https://nodejs.org) no padrão `RESTful` que possibilite a criação e listagem de posts e comentários. 
+Sendo que cada comentário devem pertencer a um post.
+
 ## Instruções
 
 - Utilizar **apenas JavaScript** puro para resolver o problema (**nodejs**);
@@ -17,9 +20,6 @@
 - Prazo para conclusão 3 dias;
 
 - Ao finalizar o teste, envie o link do seu repositório via whatapp (96) 99207-6582 - Wanderson Elias
-
-Deverá ser implementado uma API [node.js](https://nodejs.org) no padrão `RESTful` que possibilite a criação e listagem de posts e comentários.
-Sendo que cada comentário devem pertencer a um post.
 
 ## Observações
 
